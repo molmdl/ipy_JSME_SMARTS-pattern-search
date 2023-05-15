@@ -1,9 +1,14 @@
 # ipy_JSME_SMARTS-pattern-search
 ---
 A Jupyter notebook that allow user to draw a molecule and highlight substructure of interest.
+(binder is not working at the moment)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/molmdl/ipy_JSME_SMARTS-pattern-search.git/main)
 
 General usage
+1. create a conda environment with required dependencies 
+2. launch the notebook
+
+Workflow of the notebook
 1. Load the JSME editor and draw the molecule of interest
 2. Upload the csv file containing the SMARTS pattern of your custom chemical filters.
 3. Highlight the SMARTS pattern in the molecule drawn by the user.

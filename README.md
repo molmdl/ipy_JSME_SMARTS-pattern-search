@@ -1,7 +1,7 @@
 # ipy_JSME_SMARTS-pattern-search
 ---
 A Jupyter notebook that allow user to draw a molecule and highlight substructure of interest.
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/molmdl/ipy_JSME_SMARTS-pattern-search.git/main?labpath=https%3A%2F%2Fgithub.com%2Fmolmdl%2Fipy_JSME_SMARTS-pattern-search%2Fblob%2Fmain%2FJSME_custom_SMARTS_highlight.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/molmdl/ipy_JSME_SMARTS-pattern-search.git/main?labpath=JSME_custom_SMARTS_highlight.ipynb)
 
 General usage
 1. Load the JSME editor and draw the molecule of interest

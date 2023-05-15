@@ -1,9 +1,9 @@
 name: ipy_JSME_SMARTS
 channels:
   - conda-forge
-  #- default
+  - default
 dependencies:
-  - python=3.6
+  - python=3.7
   - biopandas
   - ipython
   - jupyter

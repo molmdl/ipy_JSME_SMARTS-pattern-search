@@ -1,6 +1,7 @@
 name: ipy_JSME_SMARTS-pattern-search
 channels:
   - conda-forge
+  - default
 dependencies:
   - python=3.6
   - biopandas

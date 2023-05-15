@@ -1,5 +1,6 @@
 # ipy_JSME_SMARTS-pattern-search
 ---
+A Jupyter notebook that allow user to draw a molecule and highlight substructure of interest.
 
 General usage
 1. Load the JSME editor and draw the molecule of interest

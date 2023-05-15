@@ -1,0 +1,1 @@
+Example file of substructures taken from https://github.com/volkamerlab/teachopencadd/blob/master/teachopencadd/talktorials/T003_compound_unwanted_substructures/data/unwanted_substructures.csv

@@ -3,8 +3,8 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-biopandas
-jupyterlab
-rdkit==2020.09.3
-ipywidgets==7.5.1
-traitlets4.3.3
+  - biopandas
+  - jupyterlab
+  - rdkit==2020.09.3
+  - ipywidgets==7.5.1
+  - traitlets4.3.3

@@ -2,7 +2,7 @@
 A Jupyter notebook that allow user to draw a molecule and highlight substructure of interest.
 
 ## Launch with binder
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/molmdl/ipy_JSME_SMARTS-pattern-search.git/main?filepath=JSME_custom_SMARTS_highlight.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/molmdl/ipy_JSME_SMARTS-pattern-search.git/main?urlpath=JSME_custom_SMARTS_highlight.ipynb)
 
 - Takes some time to load. Retry if you get an error. 
 - If the above link is not working, try the following:

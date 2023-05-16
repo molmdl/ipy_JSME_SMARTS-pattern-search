@@ -28,7 +28,7 @@ Workflow
 2. Upload the csv file containing the SMARTS pattern of your custom chemical filters.
 3. Highlight the SMARTS pattern in the molecule drawn by the user.
 
-Majority of the codes were taken from the following resources:
+Majority of the code was taken from the following resources:
 1. <a href="https://github.com/lithium0003/JSME_ipywidget">JSME_ipywidget</a>
 2. "T003_compound_unwanted_substructures" of <a href="https://github.com/volkamerlab/teachopencadd">TeachOpenCADD</a> 
 

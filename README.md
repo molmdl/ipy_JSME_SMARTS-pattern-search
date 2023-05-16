@@ -2,10 +2,9 @@
 A Jupyter notebook that allow user to draw a molecule and highlight substructure of interest.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/molmdl/ipy_JSME_SMARTS-pattern-search.git/main?filepath=JSME_custom_SMARTS_highlight.ipynb)
+Takes some time to load. Retry if you get an error. Jupyter Lab is not working, switch to classic via the upper menu bar ‘Help’ > ‘Launch Classic Notebook’. 
 
-Using conda to install dependencies.
-
-General usage
+## Install locally
 1. Install <a href="https://www.anaconda.com/download/">Anaconda</a> or <a href="https://conda.io/miniconda.html">Miniconda</a>.
 2. Clone this repository
 >    git clone https://github.com/molmdl/ipy_JSME_SMARTS-pattern-search.git

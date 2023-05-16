@@ -1,8 +1,7 @@
 # ipy_JSME_SMARTS-pattern-search
 A Jupyter notebook that allow user to draw a molecule and highlight substructure of interest.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/molmdl/ipy_JSME_SMARTS-pattern-search.git/main)
-<b> WARNING: Binder is not working at the moment </b>
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/molmdl/ipy_JSME_SMARTS-pattern-search.git/main?filepath=JSME_custom_SMARTS_highlight.ipynb)
 
 Using conda to install dependencies.
 

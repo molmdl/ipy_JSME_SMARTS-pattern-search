@@ -1,5 +1,6 @@
 # ipy_JSME_SMARTS-pattern-search
 A simple demo of using RDKit to highlight a custom set of substructures in a query molecule. List of substructures can be provided in a file uploaded by the user. Query molecule is drawn by the user via JSME.
+
 [![License](https://img.shields.io/badge/License-BSD%203-lightgrey.svg)](https://opensource.org/license/bsd-3-clause/)
 
 ## Launch in BinderHub

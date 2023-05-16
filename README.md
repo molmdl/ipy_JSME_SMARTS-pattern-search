@@ -4,7 +4,7 @@ A simple demo of using RDKit to highlight a custom set of substructures in a que
 [![License](https://img.shields.io/badge/License-BSD%203-lightgrey.svg)](https://opensource.org/license/bsd-3-clause/)
 
 ## Launch in BinderHub
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/molmdl/ipy_JSME_SMARTS-pattern-search.git/main?urlpath=JSME_custom_SMARTS_highlight.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/molmdl/ipy_JSME_SMARTS-pattern-search.git/main?filepath=JSME_custom_SMARTS_highlight.ipynb)
 
 - Takes some time to load. Retry if you get an error. 
 - If the above link is not working, try the following:

@@ -17,15 +17,15 @@ A simple demo of using RDKit to highlight a custom set of substructures in a que
 ## Install locally
 1. Install <a href="https://www.anaconda.com/download/">Anaconda</a> or <a href="https://conda.io/miniconda.html">Miniconda</a>.
 2. Clone this repository
->    git clone https://github.com/molmdl/ipy_JSME_SMARTS-pattern-search.git
+    `git clone https://github.com/molmdl/ipy_JSME_SMARTS-pattern-search.git`
 3. cd to the cloned repository
->    cd ipy_JSME_SMARTS-pattern-search
+    `cd ipy_JSME_SMARTS-pattern-search`
 4. Create a conda environment with required dependencies 
->    conda env create -f environment.yml
+    `conda env create -f environment.yml`
 5. Activate the environment
->    conda activate ipy_JSME_SMARTS
+    `conda activate ipy_JSME_SMARTS`
 6. Launch the notebook
->    jupyter notebook JSME_custom_SMARTS_highlight.ipynb
+    `jupyter notebook JSME_custom_SMARTS_highlight.ipynb`
 
 Workflow
 1. Load the JSME editor and draw the molecule of interest
